@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://humannotaslave.com" # the base hostname & protocol for your site, e.g. http://example.com  
-tinylytics: ?hits&kudos&countries&uptime
+tinylytics: https://tinylytics.app/embed/C4zWbq7RRszuwDWWxcrL.js?hits&kudos&countries&uptime
 product: Human, Not A Slave
 tag-line: 
 shopify-url:
